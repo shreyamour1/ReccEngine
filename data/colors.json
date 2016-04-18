@@ -1,0 +1,81 @@
+[
+	{
+		"id": "1",
+		"name": "Teal",
+		"thumb": {
+			"url": "https://d2d00szk9na1qq.cloudfront.net/Product/6269d36b-a93d-4c15-b173-d1b83cd8dfac/Images/Medium_EF-391.jpg"
+		}
+	},
+	{
+		"id": "2",
+		"name":"Turquiose",
+		"thumb": {
+			"url": "http://stephanie-davis.co.uk/wp-content/uploads/2014/07/Teal-imprint1.jpg"
+		}
+	},
+	{
+		"id":"3",
+		"name":"Aqua",
+		"thumb": {
+ 			"url": "https://s.graphiq.com/sites/default/files/2307/media/images/Aqua_429701_i0.png"
+		}
+	},
+	{
+		"id":"4",
+		"name":"Blue",
+		"thumb":{
+			"url":"http://www.laminart.com/img/product/cad/176_9156_cad.jpg"
+		}
+	},
+	{
+		"id":"5",
+		"name":"Rose-pink",
+		"thumb":{
+			"url":"http://productsondemand.biz/shopping/images/R-832.jpg"
+		}
+	},
+	{
+		"id":"6",
+		"name":"Magenta",
+		"thumb":{	
+			"url":"https://www.wallyspartyfactory.com/assets/Magenta-Tissue-Paper-Giftwrap-8ct.jpg"
+		}
+	},
+	{	
+		"id":"7",
+		"name":"Purple",
+		"thumb":{
+			"url":"https://s.graphiq.com/sites/default/files/2307/media/images/t2/Tyrian_Purple_429593_i0.png"
+		}
+	},
+	{	
+		"id":"8",
+		"name":"Violet",
+		"thumb":{
+			"url":"https://s2.graphiq.com/sites/default/files/2307/media/images/t2/Russian_Violet_1395418.png"
+		}
+	},
+	{
+		"id":"9",
+		"name":"Yellow",
+		"thumb":{
+			"url":"http://www.colorcombos.com/images/colors/FFFF66.png"
+
+		}
+	},
+	{
+		"id":"10",
+		"name":"Orange",
+		"thumb":{
+			"url":"http://www.colorcombos.com/images/colors/FF9900.png"
+		}
+	},
+	{
+		"id":"11",
+		"name":"Brown",
+		"thumb":{
+			"url":"http://www.colorcombos.com/images/colors/7B4A12.png"	
+		}
+	}
+	
+]
